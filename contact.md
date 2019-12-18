@@ -1,11 +1,12 @@
 ---
 title: Get in Touch
-img_path: images/contact.jpg
-menus:
+img_path: "/images/2-1.jpg"
+layout: contact
+subtitle: ''
+menu:
   main:
     title: Contact
     weight: 6
-layout: contact
----
 
-To get in touch fill the form below.
+---
+Send me a message with the form below.
