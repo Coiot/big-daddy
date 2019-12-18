@@ -49,6 +49,4 @@ En el Centro del Pueblo de Springdale, Calle Emma
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/231435999?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-<p><a href="[https://vimeo.com/231435999](https://vimeo.com/231435999 "https://vimeo.com/231435999")">Papa Rap - We can not afford to waste it!</a> from <a href="[https://vimeo.com/sharphue](https://vimeo.com/sharphue "https://vimeo.com/sharphue")">Sharp Hue</a> on <a href="[https://vimeo.com](https://vimeo.com "https://vimeo.com")">Vimeo</a>.</p>
-
 For more information about WATER FUN FACTS WITH PAPA RAP, please contact [**alpaparap@gmail.com**](mailto:alpaparap@gmail.com "Papa Rap's Email").
