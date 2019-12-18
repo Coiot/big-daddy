@@ -8,7 +8,7 @@ excerpt: Jump in and listen to a few samples our music made in collaboration wit
   you.
 layout: post
 subtitle: ''
-hide_header: false
+hide_header: true
 
 ---
 ### Papa Rap’s Water Fun Facts・Información y Diversión del Agua con Papa Rap
