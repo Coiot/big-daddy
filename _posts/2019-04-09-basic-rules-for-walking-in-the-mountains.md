@@ -7,7 +7,7 @@ excerpt: Jump in and listen to a few samples our music made in collaboration wit
   Beaver Water District. See our schedule to know when we'll be playing a show near
   you.
 layout: post
-subtitle: "1"
+subtitle: ''
 hide_header: false
 
 ---
