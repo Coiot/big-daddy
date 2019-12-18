@@ -1,0 +1,12 @@
+---
+layout: post
+title: Test
+subtitle: "2"
+date: 2019-12-15 06:00:00 +0000
+thumb_img_path: "/images/logo-1.png"
+content_img_path: ''
+excerpt: ''
+hide_header: false
+
+---
+Testing
