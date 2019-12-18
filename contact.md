@@ -1,5 +1,5 @@
 ---
-title: Get in Touch
+title: Spread the Word
 img_path: "/images/2-1.jpg"
 layout: contact
 subtitle: ''
