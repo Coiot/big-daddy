@@ -23,6 +23,6 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
-  label: text
+  label: Text
 pages:
 - index.md
