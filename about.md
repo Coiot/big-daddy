@@ -1,6 +1,6 @@
 ---
 title: Who is Papa Rap?
-subtitle: This is a short page about me and my work
+subtitle: ''
 img_path: "/images/1-1.jpg"
 layout: page
 menu:
