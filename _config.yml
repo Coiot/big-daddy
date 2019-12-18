@@ -7,7 +7,7 @@ header:
   title: Papa Rap
   tagline: Paz   Peace   Igualdad   Equality   Amistad   FriendShip   Hermandad   Brotherhood
   logo_img: ''
-  bg_img: images/header-bg.jpg
+  bg_img: "/images/2-1.jpg"
   has_nav: true
   has_social: true
 footer:
