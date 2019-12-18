@@ -1,8 +1,8 @@
 ---
 title: Water Fun Facts Concert
 date: 2019-12-17T06:00:00.000+00:00
-thumb_img_path: images/1.jpg
-content_img_path: images/1.jpg
+thumb_img_path: "/images/2-1.jpg"
+content_img_path: "/images/2-1.jpg"
 excerpt: 'In collaboration with Beaver Water District. '
 layout: post
 subtitle: ''
