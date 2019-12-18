@@ -15,5 +15,14 @@ fields:
   default: home
   config:
     required: true
+- name: text
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: text
 pages:
 - index.md
