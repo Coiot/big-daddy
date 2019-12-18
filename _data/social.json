@@ -1,6 +1,12 @@
 {
   "links": [
     {
+      "type": "instagram",
+      "title": "Instagram",
+      "icon": "fa-instagram",
+      "url": "https://www.instagram.com/"
+    },
+    {
       "title": "Youtube",
       "icon": "fa-youtube",
       "url": "https://www.youtube.com/channel/UCcy1JQ7wdy-mWexwItgaHRg"
@@ -12,12 +18,6 @@
       "url": "https://twitter.com/"
     },
     {
-      "type": "instagram",
-      "title": "Instagram",
-      "icon": "fa-instagram",
-      "url": "https://www.instagram.com/"
-    },
-    {
       "type": "github",
       "title": "GitHub",
       "icon": "fa-github",
@@ -27,7 +27,7 @@
       "type": "linkedin",
       "title": "LinkedIn",
       "icon": "fa-linkedin",
-      "url": "https://www.linkedin.com/"
+      "url": "https://www.instagram.com/papa_rap1/"
     },
     {
       "type": "devto",
