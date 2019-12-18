@@ -14,6 +14,10 @@ layout: body
 
 <p>His messages go from parent involvement in our schools and communities to student success by helping them make the right choices in life.</p>
       </div>
+      
+      <div>
+        {{ home.text }}
+      </div>
         
       <div class="post-feed">
         {% assign display_posts = '/posts' | get_pages | sort: 'date' | reverse %}
