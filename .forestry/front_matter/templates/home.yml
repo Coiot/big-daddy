@@ -15,7 +15,7 @@ fields:
   default: home
   config:
     required: true
-- name: Text
+- name: text
   type: textarea
   default: ''
   config:
