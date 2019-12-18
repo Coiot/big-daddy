@@ -10,43 +10,33 @@ sections:
   templates:
   - config
 - type: document
-  path: _data/social.json
-  label: Social Links
-  templates:
-  - social
-- type: document
-  path: _data/author.json
-  label: Author
-  templates:
-  - author
-- type: document
   path: index.md
   label: Home
   templates:
   - home
-- type: document
-  path: contact.md
-  label: Contact
-  templates:
-  - contact
 - type: directory
   path: ''
-  label: Page
+  label: Pages
   create: all
   match: "**/*.md"
   exclude: "{_posts/**,README.md,LICENSE.md,index.md,contact.md}"
   templates:
   - page
 - type: jekyll-posts
-  label: Post
+  label: Blog Posts
   create: all
   templates:
   - post
 - type: document
-  path: _data/menus.yml
-  label: Site Menus
+  path: contact.md
+  label: Contact Page
   templates:
-  - site_menus
+  - contact
+- type: document
+  path: _data/social.json
+  label: Social Links
+  templates:
+  - social
 upload_dir: images
 public_path: "/images"
 front_matter_path: ''
