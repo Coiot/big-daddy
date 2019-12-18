@@ -2,7 +2,7 @@
 title: Water Fun Facts Concert
 date: 2019-12-17T06:00:00.000+00:00
 thumb_img_path: "/images/2-1.jpg"
-content_img_path: "/images/2-1.jpg"
+content_img_path: "/images/1-1.jpg"
 excerpt: Jump in and listen to a few samples our music made in collaboration with
   Beaver Water District. See our schedule to know when we'll be playing a show near
   you.
