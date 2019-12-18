@@ -2,7 +2,7 @@
 title: Stackbit Fjord Theme
 baseurl: "/"
 permalink: "/:title/"
-palette: yellow
+palette: red
 header:
   title: Papa Rap
   tagline: Minimal and clean blog theme
