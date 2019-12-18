@@ -4,7 +4,7 @@ baseurl: "/"
 permalink: "/:title/"
 palette: red
 header:
-  title: Papa Rap
+  title: Papa-Rap
   tagline: Paz   Peace   Igualdad   Equality   Amistad   FriendShip   Hermandad   Brotherhood
   logo_img: images/logo.png
   bg_img: images/header-bg.jpg
