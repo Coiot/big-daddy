@@ -2,7 +2,7 @@
 title: Papa Rap
 baseurl: "/"
 permalink: "/:title/"
-palette: red
+palette: green
 header:
   title: Papa Rap
   tagline: ''
