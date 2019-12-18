@@ -1,13 +1,13 @@
 ---
 title: Water Fun Facts Concerts
-date: 2019-12-17T06:00:00.000+00:00
+date: 2019-12-16 06:00:00 +0000
 thumb_img_path: "/images/1-1.jpg"
 content_img_path: "/images/1-1.jpg"
 excerpt: Jump in and listen to a few samples our music made in collaboration with
   Beaver Water District. See our schedule to know when we'll be playing a show near
   you.
 layout: post
-subtitle: ''
+subtitle: "1"
 hide_header: false
 
 ---
@@ -50,5 +50,7 @@ En el Centro del Pueblo de Springdale, Calle Emma
 12PM to 5PM
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/231435999?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+#### Contact
 
 For more information about WATER FUN FACTS WITH PAPA RAP, please contact [**alpaparap@gmail.com**](mailto:alpaparap@gmail.com "Papa Rap's Email").
