@@ -22,3 +22,8 @@ So put on your dancing shoes and let Papa Rap touch your heart and mind with a p
 **I’m Drug and Alcohol Free Show** – includes talking to someone, resources, action plan and service-learning project
 
 **Feed Your Brain-Alimenta Tu Cerebro** – literacy campaign, college preparation, capturing one’s talents and resources
+
+**Fees:** 45 minutes to one hour performance $800 - $1,500 - Additional $450 performance, same day same or nearby location. Up to 3 shows a day. Fun Drum workshop- 45 minutes to one hour $550 (15-30 participants) $300,00 for additional workshop same location or nearby. up to 4 work shop a day. Travel/lodging negotiable
+
+  
+**Availability:** Year-round
