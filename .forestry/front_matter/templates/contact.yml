@@ -20,7 +20,7 @@ fields:
 - type: text
   name: layout
   label: Layout
-  hidden: true
+  hidden: false
   default: contact
   config:
     required: true
